@@ -12,7 +12,7 @@
       "value": ""
     },
     "PREFIX": {
-      "description": "Bot prefix (Default: .)",
+      "description": "Bot prefix (Default: ,)",
       "required": false,
       "value": "."
     },
@@ -27,12 +27,12 @@
       "value": "public"
     },
     "OWNER_NUMBER": {
-      "description": "Owner WhatsApp number without + (Default: 923427582273)",
+      "description": "Owner WhatsApp number without + (Default: 4915511034702)",
       "required": false,
-      "value": "923427582273"
+      "value": "4915511934702"
     },
     "OWNER_NAME": {
-      "description": "Owner name (Default: Jᴀᴡᴀᴅ TᴇᴄʜX)",
+      "description": "Owner name (Default: 𓆩⃜͢͢🌊≛⃝𝗟͜͡𝑼𝑭𝑭𝒀)",
       "required": false,
       "value": "Jᴀᴡᴀᴅ TᴇᴄʜX"
     },
